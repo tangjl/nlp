@@ -1,0 +1,121 @@
+Questions with wrong answers will be denoted by ****
+
+Question: What is Perl?
+
+Correct Answer: Perl is a family of high-level, general-purpose, interpreted, dynamic programming languages.
+
+My System Answer: 'Perl' is a family of high-level, general-purpose, interpreted, dynamic programming languages. 
+
+Question: What is pseudocode?
+
+Correct Answer: Pseudocode is an informal high-level description of the operating principle of a computer program or other algorithm.
+
+My System Answer: 'Pseudocode' is an informal high-level description of the operating principle of a computer program or other algorithm. 
+
+Question: What is lung cancer?
+
+Correct Answer: Lung cancer is a malignant lung tumor characterized by uncontrolled cell growth in tissues of the lung.
+
+My System Answer: Lung cancer is a malignant lung tumor characterized by uncontrolled cell growth in tissues of the lung. 
+
+Question****: What is a calculator?
+
+Correct Answer: An electronic calculator is a small, portable electronic device used to perform both basic operations of arithmetic and complex mathematical operations.
+
+My System Answer: Seven-segment display, that can perform arithmetic operations. 
+
+Question****: What is a backflip?
+
+Correct Answer: An acrobatic flip is a sequence of body movements in which a person leaps into the air and then rotates one or more times while airborne. 
+
+My System Answer: Performed as part of an acro dance routine.
+
+Question: Who is George Clooney?
+
+Correct Answer: George Timothy Clooney is an American actor, screenwriter, producer, director, and activist.
+
+My System Answer: George Clooney is an American actor, screenwriter, producer, director, and activist. 
+
+Question: Who is Plaxico Burress?
+
+Correct Answer: Plaxico Antonio Burress is a former American football wide receiver.
+
+My System Answer: 'Plaxico Antonio Burress' is a former American football wide receiver. 
+
+Question: Who was Jim Harrison?
+
+Correct Answer: James "Jim" Harrison was an American author known for his poetry, fiction, reviews, essays about the outdoors, and writings about food. 
+
+My System Answer: 'James "Jim" Harrison' was an American author known for his poetry, fiction, reviews, essays about the outdoors, and writings about food. 
+
+Question****: Who is Shaq?
+
+Correct Answer: Shaquille Rashaun O'Neal is a retired American professional basketball player who is currently an analyst on the television program Inside the NBA.
+
+My System Answer: {{Infobox basketball biography |name = Shaquille O'Neal |image = Shaquille O'Neal in 2011 (cropped).
+
+Question****: Who is Barack Obama?
+
+Correct Answer: Barack Hussein Obama II is an American politician serving as the 44th President of the United States, and the first African American to hold the office. 
+
+My System Answer: During his first two years in office, Obama signed into law economic stimulus legislation in response to the Great Recession in the form of the American Recovery and Reinvestment Act of 2009 and the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010. 
+
+Question: When was World War I?
+
+Correct Answer: World War I began on 28 July 1914 and lasted until 11 November 1918. gr
+
+My System Answer: World War I began on 28 July 1914 and lasted until 11 November 1918. 
+
+Question: When did the Great Depression end?
+
+Correct Answer: The Great Depression lasted until the late 1930s. 
+
+My System Answer: The Great Depression ended in the late 1930s. 
+
+Question****: When was Superbowl 45?
+
+Correct Answer: Superbowl 45 was played on February 6, 2011. 
+
+My System Answer: Superbowl 45 was played on February 6. 
+
+Question****: When did the Vietnam War end?
+
+Correct Answer: The Vietnam War ended on 30 April 1975. 
+
+My System Answer: The Vietnam War intal. 
+
+Question****: When did the Korean War begin?
+
+Correct Answer: The Korean War began on 25 June 1950. 
+
+My System Answer: The Korean War began on the global tensions of the Cold War that developed immediately afterwards. 
+
+Question: Where is Virginia Commonwealth University?
+
+Correct Answer: Virginia Commonwealth University is located in Richmond, Virginia. 
+
+My System Answer: Virginia Commonwealth University is located in Richmond. 
+
+Question: Where was Super Bowl 50?
+
+Correct Answer: Super Bowl 50 was played at Santa Clara, California. 
+
+My System Answer: Super Bowl 50 was located in Santa Clara. 
+
+Question****: Where is California?
+
+Correct Answer: California is geographically located in the western part of the United States.
+
+My System Answer: California is located in Northern California. 
+
+Question****: Where is the Amway Center?
+
+Correct Answer: The Amway Center is located in Orlando, Florida. 
+
+My System Answer: The Amway Center is located in the Downtown area. 
+
+Question****: Where is Romania?
+
+Correct Answer: Romania is located in Southeast Europe.
+
+My System Answer: Romania is located in the EU.

@@ -1,0 +1,201 @@
+Note: Incorrect answers marked by ***
+
+Question: Where are the Great Plains located?
+
+System Answer: The 'Great Plains' is in the United States and Canada.
+
+Correct Answer: The 'Great Plains' lies in the United States and Canada.
+
+Question: Where is Xavier University at?
+
+System Answer: 'Xavier University'  is in Norwood.
+
+Correct Answer: 'Xavier University'  is located in Norwood.
+
+Question: Where is Ohio located?
+
+System Answer: 'Ohio' is in the midwestern region of the United States.
+
+Correct Answer: 'Ohio' is a state in the midwestern region of the United States.
+
+***Question: Where is Italy?
+
+System Answer: 'Italy' , Italy covers an area of and has a largely temperate seasonal climate; due to its shape
+
+Correct Answer: Italy is located in the heart of the Mediterranean Sea.
+
+***Question: Where is Texas?
+
+System Answer: 'Texas'  is in the United States by both area and population. 
+
+Correct Answer: Texas is geographically located in the south central part of the country, 
+
+***Question: Where is China?
+
+System Answer: 'China', officially the 'People's Republic of China'
+
+Correct Answer: China is in East Asia.
+
+***Question: Where are the Rocky Mountains located?
+
+System Answer: The 'Rocky Mountains'
+
+Correct Answer: The Rocky Mountains are located in western North America. 
+
+Question: When is Thanksgiving?
+
+System Answer: Thanksgiving Day' is celebrated on the second Monday of October in Canada and on the fourth Thursday of November in the United States.
+
+Correct Answer: Thanksgiving is celebrated on the second Monday of October in Canada and on the fourth Thursday of November in the United States.
+
+Question: When is Boxing day?
+
+System Answer: 'Boxing Day' is celebrated on the day following Christmas Day in the United Kingdom and Commonwealth nations.
+
+Correct Answer: 'Boxing Day' is a holiday celebrated on the day following Christmas Day in the United Kingdom and Commonwealth nations
+
+Question: When was the Great Depression?
+
+System Answer: TheGreat Depression started in 1929 and lasted until the late 1930s.
+
+Correct Answer: The 'Great Depression' was a severe worldwide economic depression that took place during the 1930s.
+
+***Question: When is Mardi Gras?
+
+System Answer: 'Mardi Gras'  beginning on or after the Christian feasts of the Epiphany  and culminating on the day before Ash Wednesday.
+
+Correct Answer: Mardi Gras begins on or after the Christian feasts of the Epiphany  and culminate on the day before Ash Wednesday
+
+***Question: When was the Korean War?
+
+System Answer: TheKorean War started when North Korea invaded South Korea.
+
+Correct Answer: The Korean War began on 25 June 1950 and ended on 27 July 1953
+
+***Question: When was the Vietnam War?
+
+System Answer: {{Infobox military conflict  | conflict = Vietnam War<br /><small></small> partof =  | the Indochina Wars and the Cold War image = caption = 'Clockwise, from top  | left': U.S.
+
+Correct Answer: The Vietnam War was from 1 November 1955 to 30 April 1975
+
+***Question: When is Christmas?
+
+System Answer: 'Christmas' or 'Christmas Day'  is an annual festival commemorating the birth of Jesus Christ while some Christian groups reject the celebration.
+
+Correct Answer: Christmas is on December 25.
+
+Question: What teams has Plaxico Burress played on?
+
+System Answer: Plaxico Burress has played for the New York Giants and the New York Jets and Michigan State
+
+Correct Answer: 'Plaxico Antonio Burress' played for the New York Giants and the New York Jets. He played college
+  football at Michigan State.
+
+Question: What teams has Carson Wentz played for?
+
+System Answer: Carson Wentz has played for the Philadelphia Eagles of the National Football League  and North Dakota State
+
+Correct Answer: 'Carson Wentz'  is an American football quarterback for the Philadelphia Eagles of the National Football League . He played college
+football at North Dakota State.
+
+Question: What is an optical illusion?
+
+System Answer: An 'optical illusion'  is characterized by visually perceived images that differ from objective reality.
+
+Correct Answer: An 'optical illusion'  is characterized by visually perceived images that differ from objective reality.
+
+Question: What are salmon?
+
+System Answer: 'Salmon' is the common name for several species of ray-finned fish in the family Salmonidae.
+
+Correct Answer: 'Salmon' is the common name for several species of ray-finned fish in the family Salmonidae.
+
+***Question: What teams has Kevin Durant played for?
+
+System Answer: Kevin Durant has played for the Oklahoma City Thunder of the National Basketball Association  and the Thunder.
+
+Correct Answer: Kevin Durant has played for the Oklahoma City Thunder and the University of Texas. 
+
+***Question: What is a handstand?
+
+System Answer:  __NOTOC__ r pauses in a precision handstand before handwalking across the stage.]] A 'handstand' is the act of supporting the body in a stable, inverted vertical position by balancing on the hands.
+
+Correct Answer: A 'handstand' is the act of supporting the body in a stable, inverted vertical position by balancing on the hands
+
+***Question: What teams has Jabari Parker played for?
+
+System Answer: Jabari Parker has played for the Milwaukee Bucks of the National Basketball Association  and Duke University and the John R
+
+Correct Answer: Jabari Parker has played for the Milwaukee Bucks of the National Basketball Association  and Duke University
+
+Question: Who was in Tangled?
+
+System Answer: Tangled features Mandy Moore, Zachary Levi, and Donna Murphy.
+
+Correct Answer: Tangled stars Mandy Moore, Zachary Levi, and Donna Murphy.
+
+Question: Who is in Zootopia?
+
+System Answer: Zootopia features Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate, Nate Torrence, Bonnie Hunt, Don Lake, Tommy Chong, J.K. Simmons, Octavia Spencer, Alan Tudyk, and Shakira.
+
+Correct Answer: Zootopia stars Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate, Nate Torrence, Bonnie Hunt, Don Lake, Tommy Chong, J.K. Simmons, Octavia Spencer, Alan Tudyk, and Shakira.
+
+Question: Who has Michael Jordan played for?
+
+System Answer: Michael Jordan has played for the Chicago Bulls and Washington Wizards
+
+Correct Answer: Jordan played 15 seasons in the National Basketball Association  for the Chicago Bulls and Washington Wizards
+
+Question: Who was Andy Grove?
+
+System Answer: 'Andrew Stephen "Andy" Grove'  was a Hungarian-born American businessman, engineer, author and a science pioneer in the semiconductor industry.
+
+Correct Answer: 'Andrew Stephen "Andy" Grove'  was a Hungarian-born American businessman, engineer, author and a science pioneer in the semiconductor industry.
+
+***Question: Who is Michael Jackson?
+
+System Answer: The eighth child of the Jackson family, Michael made his professional debut in 1964 with his elder brothers Jackie, Tito, Jermaine, and Marlon as a member of the Jackson 5, and began his solo career in 1971.
+
+Correct Answer: Michael Jackson was an American singer, songwriter, record producer, dancer, and actor.
+
+***Question: Who is Barack Obama?
+
+System Answer: During his first two years in office, Obama signed into law economic stimulus legislation in response to the Great Recession in the form of the American Recovery and Reinvestment Act of 2009 and the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010.
+
+Correct Answer: Barack Obama is an American politician who is the 44th and current President of the United States
+
+***Question: Who is Prince?
+
+System Answer: A 'prince' is a male ruler, monarch, or member of a monarch's or former monarch's family.
+
+Correct Answer: Prince Rogers Nelson was an American singer, songwriter, multi-instrumentalist, record producer, and actor
+
+WALKTHROUGH EXAMPLE: Who has Klay Thompson played for?
+
+Search term: Klay Thompson
+After search term has been found, raw wikipedia data is accessed.
+Keywords after query expansion: Klay Thompson, player, played, for, college, professional, seasons, attended
+These words are searched for in individual paragraphs and return a score given by the appearance of keywords. 
+Whichever has the highest score will be the one used.
+I then search through for key patterns where the team names are contained, and store the team names for my final answer.
+I recombine the names and format the final answer.
+For the Klay Thompson example, 3 candidates were considered. One returned a score of 0, one a score of 0.1, and the other a score of 0.9. The candidate with the highest score (0.9) was reformulated and returned.  
+
+THe highest scored candidate: 
+ 'Klay Alexander Thompson'  is an
+American professional basketball player for the Golden State Warriors of the
+National Basketball Association . The son of former NBA player Mychal
+Thompson, he played college basketball for three seasons at Washington State
+University, where he was a two-time first-team all-conference selection in the
+Pac-10. Thompson was selected in the first round of the 2011 NBA draft by Golden
+State with the 11th overall pick. In 2014, he and teammate Stephen Curry set an
+NBA record with 484 combined three-pointers in a season, as the
+pair were given the nickname the "Splash Brothers". Thompson was named an NBA All-
+Star and selected to the All-NBA Team in 2015, and helped lead the Warriors to
+their first NBA championship since 1975.
+
+Team names are found, in this case the Warriors and Washington State University. Those are taken and end up in the final answer, which was:
+Klay Thompson has played for the Golden State Warriors of the National Basketball Association  and Washington State University.
+
+
+

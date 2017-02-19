@@ -1,0 +1,71 @@
+Script started on Wed 06 Apr 2016 06:20:27 AM UTC
+[01;32mmint@mint[01;34m ~/Desktop/project4 $[00m perl decision-list.pl line-train.txt line-test.txt m y-decisionp[K-list.txt my-line-li[K[Kanswers.txt
+[01;32mmint@mint[01;34m ~/Desktop/project4 $[00m head -50 my-decision-list.txt
+These are the decision lists features
+-------------------------------------------------------
+Feature: The <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Prix <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: party <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: apparel <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: latest <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: new <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: marketing <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: building-materials <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Coleco's <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: specialized <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: skin-care <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Carleton <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+[01;32mmint@mint[01;34m ~/Desktop/project4 $[00m head - [K19[K0 my-line-answers.txt
+<answer instance="line-n.w8_059:8174:" senseid="phone"/>
+<answer instance="line-n.w7_098:12684:" senseid="phone"/>
+<answer instance="line-n.w8_106:13309:" senseid="phone"/>
+<answer instance="line-n.w9_40:10187:" senseid="product"/>
+<answer instance="line-n.w9_16:217:" senseid="product"/>
+<answer instance="line-n.w8_119:16927:" senseid="product"/>
+<answer instance="line-n.w8_008:13756:" senseid="phone"/>
+<answer instance="line-n.w8_041:15186:" senseid="phone"/>
+<answer instance="line-n.art7} aphb 05601797:" senseid="product"/>
+<answer instance="line-n.w8_119:2964:" senseid="product"/>
+[01;32mmint@mint[01;34m ~/Desktop/project4 $[00m %[Kperl scorer.pl my-line-answers.txt line-key.txt
+Overall accuracy: 73.015873015873%
+Number of times my answer was supposed to be phone but was not: 34
+[01;32mmint@mint[01;34m ~/Desktop/project4 $[00m exit
+exit
+
+Script done on Wed 06 Apr 2016 06:21:38 AM UTC

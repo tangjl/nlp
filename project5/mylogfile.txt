@@ -1,0 +1,114 @@
+The following contains the questions asked by the user, searches I execute, and raw wiki data.
+-----------------------------------------------------------------------------------
+
+Question: What is Perl
+Search term: Perl
+Raw wiki data: 
+
+
+
+{{Infobox programming language
+| name = Perl logo = paradigm = multi-paradigm: functional, imperative, object-
+| oriented (class-based), reflective, procedural, event-driven, generic year =
+| designer = Larry Wall developer = Larry Wall latest_release_version =
+| 5.22.1<ref></ref> latest_release_date = latest_preview_version =
+| 5.23.7<ref></ref> latest_preview_date = turing-complete = Yes typing = Dynamic
+| influenced_by = AWK, Smalltalk 80, Lisp, C, C++, sed, Unix shell, Pascal
+| influenced = Coffeescript, ECMAScript/JavaScript, Falcon, Groovy, Julia, LPC,
+| Perl 6, PHP, Python, Ruby, Windows PowerShell programming_language = C
+| operating_system = Cross-platform license = GNU General Public License or
+| Artistic License<ref name='licensing'></ref> website = file_ext = .pl .pm .t
+| .pod wikibooks = Perl Programming
+}}
+
+'Perl' is a family of high-level, general-purpose, interpreted, dynamic
+programming languages. The languages in this family include Perl 5 and Perl
+6.<ref></ref>
+
+Though Perl is not officially an acronym,<ref></ref> there are various
+backronyms in use, the most well-known being "Practical Extraction and
+Reporting Language".<ref></ref> Perl was originally developed by Larry Wall in
+1987 as a general-purpose Unix scripting language to make report processing
+easier.<ref name='sheppard00'></ref> Since then, it has undergone many changes
+and revisions. Perl 6, which began as a redesign of Perl 5 in 2000, eventually
+evolved into a separate language. Both languages continue to be developed
+independently by different development teams and liberally borrow ideas from
+one another.
+
+The Perl languages borrow features from other programming languages including C,
+shell script (sh), AWK, and sed.<ref name="perltimeline"></ref> They provide
+powerful text processing facilities without the arbitrary data-length limits of
+many contemporary Unix commandline tools,<ref name="programmingperl"></ref>
+facilitating easy manipulation of text files. Perl 5 gained widespread
+popularity in the late 1990s as a CGI scripting language, in part due to its
+unsurpassed<ref></ref><ref></ref><ref></ref> regular expression and string
+parsing abilities.<ref name='roderick02'></ref>
+
+In addition to CGI, Perl 5 is used for graphics programming, system
+administration, network programming, finance, bioinformatics, and other
+applications. It has been nicknamed "the Swiss Army chainsaw <!-- Note to
+editors. This should read *chainsaw*, not knife. Check the ref -->of scripting
+languages" because of its flexibility and power,<ref></ref> and possibly also
+because of its "ugliness".<ref></ref> In 1998, it was also referred to as the
+"duct tape that holds the Internet together", in reference to both its
+ubiquitous use as a glue language and its perceived inelegance.<ref
+name='leonard98'></ref>
+
+This is my answer: 'Perl' is a family of high-level, general-purpose, interpreted, dynamic programming languages.
+
+Question: Who is Paul Rudd
+Search term: Paul Rudd
+Raw wiki data: 
+
+{{Infobox person
+| image = Paul Rudd (cropped) 2.jpg imagesize = 220px caption = Rudd at the
+| premiere of [[Ant-Man (film)|Ant-Man]] in 2015 birth_name = Paul Stephen Rudd
+| birth_date = birth_place = Passaic, New Jersey, U.S. origin = Overland Park,
+| Kansas, U.S. religion = Judaism alma_mater = University of Kansas occupation =
+| Actor, comedian, writer, producer years_active = 1992–present spouse =
+| children = 2
+}}
+
+'Paul Stephen Rudd' (born April 6, 1969)<ref></ref> is an American actor,
+comedian, writer and producer. He has primarily appeared in comedies, and is
+known for his roles in the films [[Clueless (film)|Clueless]] (1995), [[Wet Hot
+American Summer]] (2001), [[Anchorman: The Legend of Ron Burgundy]] (2004),
+[[The 40-Year-Old Virgin]] (2005), [[Knocked Up]] (2007), [[Role Models]]
+(2008), [[I Love You, Man]] (2009), [[Wanderlust (2012 film)|Wanderlust]]
+(2012), [[This Is 40]] (2012), and [[Anchorman 2: The Legend Continues]] (2013).
+In television, he appeared in the early 2000s on the NBC drama [[Sisters (TV
+series)|Sisters]] and some years later he appeared as Mike Hannigan on the NBC
+sitcom [[Friends]]. Other guest television roles have included an appearance on
+the [[Tim and Eric Awesome Show, Great Job!|Tim and Eric]] show, a recurring
+role on [[Parks and Recreation]] as politician Bobby Newport,<ref
+name=PnRS7></ref> and hosting [[Saturday Night Live]]. In 2015, Rudd starred as
+Scott Lang / Ant-Man in Marvel Studios' [[Ant-Man (film)|Ant-Man]] and will be
+reprising the character in [[Captain America: Civil War]], set for release May
+6, 2016. Rudd received a star on the Hollywood Walk of Fame on July 1,
+2015.<ref></ref>
+
+This is my answer: 'Paul Stephen Rudd'  is an American actor, comedian, writer and producer.
+
+Question: What is an apartment
+Search term: apartment
+Raw wiki data: 
+
+
+
+ in midtown Manhattan, New York, United States]] , Spain]] , Dalian, Liaoning
+ Province, China]] , India]] area of Vancouver, British Columbia, Canada]] , on
+ the north bank of the Thames, London, England]] An 'apartment' (in American and
+ Canadian English) or a 'flat' (in British English) is a self-contained housing
+ unit (a type of residential real estate) that occupies only part of a building,
+ correctly, on a single level without a stair. Such a building may be called an
+ apartment building, apartment complex, apartment house (in American English),
+ block of flats, [[tower block]], high-rise or, occasionally mansion block (in
+ British English), especially if it consists of many apartments for rent. In
+ Scotland it is called a block of flats or, if it's a traditional sandstone
+ building, a tenement, which has a pejorative connotation elsewhere. Apartments
+ may be owned by an owner/occupier, by leasehold tenure or rented by tenants
+ (two types of housing tenure).
+
+This is my answer: in midtown Manhattan, New York, United States]] , Spain]] , Dalian, Liaoning  Province, China]] , India]] area of Vancouver, British Columbia, Canada]] , on  the north bank of the Thames, London, England]] An 'apartment' (in American and  Canadian English) or a 'flat' is a self-contained housing  unit (a type of residential real estate) that occupies only part of a building,  correctly, on a single level without a stair.
+
+Question: exit

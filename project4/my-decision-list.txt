@@ -1,0 +1,4754 @@
+These are the decision lists features
+-------------------------------------------------------
+Feature: current <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: consumer-products <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: diagnostics <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: GM-10 <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: trading <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: several <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: 1,800 <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: car <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: private <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: IBM <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: 570,000 <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: your <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: women's <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: future <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: credit <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: The <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: aerospace <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: toll-free <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: open <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: party- <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: food <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: product <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Business <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: diaper <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: advertised <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: fragrance <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: A <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: lastest <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: billion <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: PS/2 <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: skin-care <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: using <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Corp.'s <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: apparel <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: chat <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Marx <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: These <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: party <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: complaint <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: perfume <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: whose <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: old <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Prix <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: subscriber- <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: microprocessor <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: "older <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: older <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: 442,000 <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: optometric <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Carleton <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <s> <head>Lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: bisexual <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: some <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: new <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: furniture <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: luxury-car <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: " <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: computer <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: products <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: PS/2 <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: PW4000 <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: shoe <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: and <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: skin-care <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: unsecured <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Spectrum <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: chemicals <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: bit <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: ground-coffee <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>lines</head> 
+Log-likelihood score: 0.122456033748034
+Word sense: phone
+
+Feature: Fox <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: full <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: microprocessor <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: PC <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: all <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: its <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: exchange <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: non-food <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: cracker <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: cereal <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: outside <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: product <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: military <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: "gab" <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: other <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: torpedo <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: sex <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: office-equipment <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: drink <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: telephone- <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: nail-polish <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: emergency <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Sun's <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: customer <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: direct <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Atlas <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: their <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: food <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: three <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: rail-intermodal <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Clarion <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: George <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: party <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: R1 <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: camera <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: direct <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: 50,000 <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: dead <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: extending <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: whose <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: 3,600 <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: 3X <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: clogged <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: important <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: company's <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: private- <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: products <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: million <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: priced <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: this <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: building-materials <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: that <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: huge <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Jeep <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Lexus <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: gab <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: romance <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: jewelry <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: computer <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: other <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: 24 <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Macintosh <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: GM's <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: crossed <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: access <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: software <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: popular <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: access <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: exclusive <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: truck <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: a <head>line</head> 
+Log-likelihood score: 1.20411998265592
+Word sense: product
+
+Feature: its <head>Line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Corsica <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: radio <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: sewing <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: car <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: new <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Zytel <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: long-awaited <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: complete <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: specialized <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: X-rated <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: filter <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: gab <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: VAX <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: in <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: 1988-model <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: struggling <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: gab- <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Ziari <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: previous <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: ordinary <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: information <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Kids <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: equipment <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: those <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: company's <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: specialty-food <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: dreamboat <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Cougar <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: such <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: The <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: marketing <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: {product} <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: with <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: dedicated <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: similar <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: communications <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: machinery <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: tire <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: health-club <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Denton <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Transformers <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: his <head>line</head> 
+Log-likelihood score: 0.294658813208041
+Word sense: product
+
+Feature: integrated <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Smith <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: one-on-one <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: its <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: subscriber <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Amiga <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: menswear <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: latest <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: another <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: the <head>line</head> 
+Log-likelihood score: 0.969164523905361
+Word sense: phone
+
+Feature: acquired <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: asynchronous <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: tip <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: at <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: broader <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Coleco's <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Hospital <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Lanterns <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Lancome <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: telephone <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: $1.69 <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> are 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> pacing 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> wouldn't 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> recently 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> jumped 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> be 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> like 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> ," 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> ," 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> growth 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> increase 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> let's 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> at 
+Log-likelihood score: 0
+Word sense: phone
+
+Feature: <head>lines</head> of 
+Log-likelihood score: 0.465840244309973
+Word sense: product
+
+Feature: <head>lines</head> yesterday, 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> under 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> there, 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> at 
+Log-likelihood score: 0.294658813208041
+Word sense: phone
+
+Feature: <head>line</head> had 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> was 
+Log-likelihood score: 1.03078235738315
+Word sense: phone
+
+Feature: <head>lines</head> included 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> to 
+Log-likelihood score: 0.217312995783475
+Word sense: phone
+
+Feature: <head>line</head> rose 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> open 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> with 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> were 
+Log-likelihood score: 0.389037613876418
+Word sense: phone
+
+Feature: <head>line</head> could 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> because 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> for 
+Log-likelihood score: 0
+Word sense: product
+
+Feature: <head>lines</head> -- 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> they 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> may 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> by 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> that 
+Log-likelihood score: 0.465840244309973
+Word sense: phone
+
+Feature: <head>line</head> made 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> are 
+Log-likelihood score: 0.294658813208041
+Word sense: product
+
+Feature: <head>line</head> because 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> noise 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> ; 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> , 
+Log-likelihood score: 0.0243365894612156
+Word sense: product
+
+Feature: <head>line</head> has 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> and 
+Log-likelihood score: 0.294658813208041
+Word sense: phone
+
+Feature: <head>line</head> is 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> proprietors, 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> last 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> planned 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> called 
+Log-likelihood score: 0
+Word sense: phone
+
+Feature: <head>line</head> between 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> increased 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> just 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> will 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>Lines</head> will 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> as 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> last 
+Log-likelihood score: 0
+Word sense: product
+
+Feature: <head>line</head> busy 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> appealing 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> effect 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> -- 
+Log-likelihood score: 0
+Word sense: product
+
+Feature: <head>lines</head> from 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> anymore," 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> showed 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> . 
+Log-likelihood score: 0.0274787703420148
+Word sense: product
+
+Feature: <head>lines</head> won't 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> products" 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> ! 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> if 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> adapters 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> charges 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> with 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> this 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> charges. 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> recently 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> ? 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> in 
+Log-likelihood score: 0.816609502202819
+Word sense: phone
+
+Feature: <head>lines</head> to 
+Log-likelihood score: 0.870522023671649
+Word sense: phone
+
+Feature: <head>line</head> once 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> charge 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> so 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> through 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> where 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> in 
+Log-likelihood score: 0.465840244309973
+Word sense: product
+
+Feature: <head>line</head> went 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> a 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> have 
+Log-likelihood score: 0
+Word sense: product
+
+Feature: <head>lines</head> through 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> into 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> by 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> light 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> that 
+Log-likelihood score: 0.294658813208041
+Word sense: phone
+
+Feature: <head>line</head> from 
+Log-likelihood score: 0.294658813208041
+Word sense: product
+
+Feature: <head>line</head> . 
+Log-likelihood score: 0.0274787703420147
+Word sense: phone
+
+Feature: <head>lines</head> ." 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> while 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> into 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> is 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> ranging 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> it 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> but 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> could 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> so 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> , 
+Log-likelihood score: 0.040579870508063
+Word sense: phone
+
+Feature: <head>line</head> and 
+Log-likelihood score: 0.172545978291031
+Word sense: phone
+
+Feature: <head>Line</head> 2 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> or 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> grew 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> used 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> during 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: microprocessor <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: emergency <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: exchange <head>line</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: furniture <head>lines</head> could 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: old <head>line</head> -- 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: skin-care <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: trading <head>lines</head> to 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: car <head>lines</head> by 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: truck <head>lines</head> through 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: new <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: at <head>lines</head> that 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: information <head>line</head> appealing 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: fragrance <head>line</head> from 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: non-food <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>line</head> that 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: popular <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: information <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: tip <head>line</head> that 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: building-materials <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: new <head>lines</head> to 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Atlas <head>lines</head> and 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: telephone <head>lines</head> or 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Corsica <head>line</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>lines</head> just 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: telephone <head>lines</head> because 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: diaper <head>line</head> in 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>line</head> to 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: the <head>line</head> busy 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: 442,000 <head>lines</head> in 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: radio <head>line</head> and 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: A <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: direct <head>lines</head> to 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: its <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: car <head>line</head> anymore," 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: advertised <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: one-on-one <head>line</head> like 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: PS/2 <head>line</head> as 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: camera <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: romance <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: equipment <head>lines</head> are 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: priced <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: PS/2 <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: skin-care <head>lines</head> last 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: computer <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: computer <head>line</head> is 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: gab <head>line</head> once 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Coleco's <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>line</head> as 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: dead <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: older <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: torpedo <head>line</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Lanterns <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: computer <head>line</head> and 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: telephone <head>lines</head> increased 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: access <head>line</head> growth 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: computer <head>lines</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: military <head>lines</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: 3X <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: access <head>lines</head> in 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: VAX <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: subscriber- <head>line</head> charge 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Lancome <head>line</head> are 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: product <head>lines</head> included 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: access <head>lines</head> were 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: private- <head>line</head> and 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: old <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: telephone <head>lines</head> that 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: product <head>lines</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: PS/2 <head>line</head> last 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: and <head>line</head> adapters 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: three <head>lines</head> at 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Corp.'s <head>lines</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: telephone <head>line</head> -- 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: the <head>line</head> at 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: chat <head>line</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: exclusive <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: telephone <head>lines</head> jumped 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: the <head>lines</head> were 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: struggling <head>line</head> was 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: nail-polish <head>line</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: PS/2 <head>line</head> that 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: telephone- <head>line</head> increase 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: George <head>line</head> is 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: product <head>lines</head> but 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: that <head>line</head> if 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: telephone <head>lines</head> in 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: current <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: ground-coffee <head>lines</head> through 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: office-equipment <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: $1.69 <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: private <head>lines</head> and 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: the <head>line</head> went 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: private <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: the <head>lines</head> to 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Smith <head>line</head> in 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: unsecured <head>line</head> while 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: perfume <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: The <head>line</head> was 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: 1988-model <head>line</head> this 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>line</head> and 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: telephone <head>line</head> growth 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: open <head>line</head> to 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: 570,000 <head>lines</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: computer <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>line</head> between 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: the <head>line</head> for 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: gab <head>lines</head> last 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Transformers <head>lines</head> ; 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>line</head> with 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: computer <head>lines</head> won't 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: women's <head>line</head> where 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Denton <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: their <head>line</head> ," 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: PC <head>line</head> wouldn't 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>line</head> in 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: specialty-food <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: million <head>lines</head> in 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: GM's <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: cereal <head>lines</head> with 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: gab- <head>line</head> proprietors, 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: PS/2 <head>lines</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Amiga <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>line</head> because 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: marketing <head>lines</head> and 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: similar <head>line</head> called 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>line</head> let's 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: in <head>lines</head> ranging 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Marx <head>line</head> to 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: sex <head>lines</head> and 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: his <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: full <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: ordinary <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: communications <head>lines</head> to 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: some <head>lines</head> ." 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: asynchronous <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: its <head>Line</head> 2 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: products <head>line</head> had 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>line</head> into 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: apparel <head>line</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Lexus <head>line</head> in 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: "gab" <head>lines</head> that 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: rail-intermodal <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: 1,800 <head>lines</head> in 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: " <head>line</head> noise 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: full <head>line</head> under 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: software <head>lines</head> pacing 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: car <head>line</head> at 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <s> <head>Lines</head> will 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: cracker <head>lines</head> and 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>line</head> light 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: the <head>line</head> so 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: telephone <head>lines</head> during 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: shoe <head>line</head> to 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: subscriber <head>line</head> charges. 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: complete <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Macintosh <head>line</head> rose 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: a <head>line</head> into 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: R1 <head>line</head> made 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Ziari <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: outside <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: huge <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Carleton <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: filter <head>line</head> for 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: several <head>lines</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Spectrum <head>line</head> has 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: PW4000 <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: all <head>lines</head> were 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: luxury-car <head>lines</head> may 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: microprocessor <head>line</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: another <head>line</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: telephone <head>lines</head> into 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: with <head>lines</head> they 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Clarion <head>lines</head> have 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: such <head>lines</head> will 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: car <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: food <head>line</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: specialized <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: gab <head>lines</head> have 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: drink <head>line</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: telephone <head>lines</head> used 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: bit <head>line</head> is 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: party <head>line</head> a 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: billion <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: important <head>line</head> ! 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: the <head>lines</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: "older <head>line</head> products" 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: his <head>line</head> be 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: a <head>line</head> for 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: access <head>lines</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Zytel <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: telephone- <head>line</head> growth 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: company's <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: whose <head>line</head> was 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: car <head>line</head> through 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>line</head> from 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: a <head>line</head> open 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: {product} <head>line</head> ," 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: previous <head>line</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: access <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: telephone <head>lines</head> at 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: customer <head>lines</head> grew 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: complaint <head>lines</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: company's <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: access <head>lines</head> grew 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Prix <head>line</head> is 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: The <head>line</head> went 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: using <head>lines</head> they 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: clogged <head>lines</head> recently 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: telephone <head>lines</head> -- 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: other <head>line</head> ? 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: a <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: other <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: consumer-products <head>lines</head> there, 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: These <head>lines</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>line</head> . 
+Log-likelihood score: 0.996886764575857
+Word sense: phone
+
+Feature: toll-free <head>line</head> for 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: product <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: long-awaited <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: this <head>line</head> open 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Kids <head>line</head> could 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: acquired <head>lines</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: telephone <head>lines</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: diagnostics <head>lines</head> showed 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: some <head>lines</head> and 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: telephone <head>line</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: sewing <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>line</head> was 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: direct <head>line</head> to 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: customer <head>lines</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: telephone <head>lines</head> to 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: tip <head>line</head> are 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: 24 <head>lines</head> and 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Hospital <head>line</head> was 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: broader <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: his <head>line</head> to 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: future <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: whose <head>lines</head> were 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: PS/2 <head>line</head> are 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: car <head>lines</head> ," 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: X-rated <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: credit <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: telephone <head>lines</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: The <head>lines</head> planned 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Jeep <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: GM-10 <head>line</head> is 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: VAX <head>line</head> has 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Business <head>lines</head> increased 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: aerospace <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: products <head>lines</head> so 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: menswear <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>lines</head> in 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: trading <head>lines</head> yesterday, 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: your <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: IBM <head>line</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: party- <head>line</head> effect 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: latest <head>line</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: integrated <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: crossed <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: telephone <head>lines</head> grew 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: 50,000 <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Sun's <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: chemicals <head>line</head> from 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Fox <head>line</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>lines</head> is 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: car <head>lines</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: dreamboat <head>line</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the <head>lines</head> it 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: party <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: its <head>line</head> by 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: access <head>lines</head> increased 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: machinery <head>lines</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: extending <head>lines</head> to 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: dedicated <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: tire <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: optometric <head>lines</head> were 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: bisexual <head>line</head> recently 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: telephone <head>lines</head> and 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: those <head>lines</head> were 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: similar <head>line</head> and 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: subscriber <head>line</head> charges 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: telephone <head>line</head> called 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Cougar <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: telephone <head>lines</head> . 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: health-club <head>line</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: 3,600 <head>lines</head> at 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: jewelry <head>lines</head> from 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: lastest <head>line</head> of 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: food <head>lines</head> to 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: marketing <head>lines</head> , 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: clogged telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: on another <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: under the <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: direct trading <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: only 50,000 <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: but all <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: as 24 <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: many private- <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: highest-volume car <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the subscriber- <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: building the <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: poorest telephone- <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: new perfume <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: and R1 <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: tried a <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: than 570,000 <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: read the <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: lost the <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: the three <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: , and <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: from his <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: other consumer-products <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: a car <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: The furniture <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: its non-food <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: that extending <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: customer access <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: a toll-free <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Keep this <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: lucrative military <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: and Clarion <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the tip <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: manufacture a <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: their trading <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Calif., gab <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: an open <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: new product <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: sellers in <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: and cracker <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: a direct <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: pay subscriber <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: company's diagnostics <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the Jeep <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: The party- <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: some private <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: its microprocessor <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: "secure" telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: 15,700 access <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: IBM PS/2 <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: thousand access <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: about 1,800 <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: new luxury-car <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: for a <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: have a <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: new access <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: that those <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the {product} <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Abex Corp.'s <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: certain Atlas <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: all its <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: their telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: more complete <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the new <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the old <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: because its <head>Line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: just at <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: toll-call party <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <s> Business <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: 4.5% access <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: luxury Lexus <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: another telephone <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Megaquest's bisexual <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: of the <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: products, a <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: of access <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: , the <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: and the <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: company's car <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: source's latest <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: submarine-seeking torpedo <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: about 442,000 <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: produce a <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: its VAX <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: excavation equipment <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Jaclyn Smith <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: While such <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: York telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: on that <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: an outside <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Patch Kids <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: an unsecured <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: and nail-polish <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Inc.'s Lancome <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: current car <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: smaller specialty-food <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: main computer <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: its integrated <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: no " <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: the apparel <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: nationally advertised <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: for the <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: a chat <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: to crossed <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: three telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <s> The <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Inc.'s Ziari <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: acquired food <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the women's <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: popular car <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the previous <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: by George <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: 10 million <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: "largest telephone- <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Prairie skin-care <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: The GM-10 <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: by direct <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: The rail-intermodal <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: IBM's lastest <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: its computer <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: its aerospace <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: a one-on-one <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Choice software <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Grand Prix <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: over telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: clogged the <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: on the <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: its Amiga <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: installed trading <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: an exclusive <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: a new <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: agricultural machinery <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: new IBM <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: out a <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: its Zytel <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: shedding some <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: toll-free complaint <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: other marketing <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: much broader <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: private telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: its long-awaited <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: four telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: the acquired <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: IBM PC <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: launch a <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the company's <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: its sewing <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: and telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: mid-range computer <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Would his <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: drilling bit <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: over ordinary <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: of the <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: about 3,600 <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: The Spectrum <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: most important <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: with a <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: on your <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: frozen food <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: keep a <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: The information <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Brands' other <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: & Marx <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: already huge <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: adult diaper <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: complete menswear <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: establish the <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: of several <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: dedicated private <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: testing a <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: a popular <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: telephone tip <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: residential telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: necessary telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: sturdy 3X <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the struggling <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: its office-equipment <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: II computer <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: open radio <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: some future <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: create a <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: time, GM's <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: 600 camera <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: and romance <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: said access <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: other gab- <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: its ground-coffee <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: a full <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the microprocessor <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: toll-free telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: its Carleton <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: million access <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: its old <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Nabisco's cereal <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: IBM's PS/2 <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: a dead <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: introduced a <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: dedicated telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: of his <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <s> These <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: new customer <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: foreign exchange <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: or asynchronous <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: to $1.69 <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the gab <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: long-distance telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: for using <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: 32 computer <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Hollywood's dreamboat <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the Hospital <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: The credit <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: New customer <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: business telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Dr. Denton <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: its car <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: including telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: the other <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Mirage car <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Pratt's PW4000 <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <@> <s> <head>Lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: and marketing <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the building-materials <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: The optometric <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: of Coleco's <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <s> A <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: initial filter <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: dropping the <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: in sex <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: phone whose <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Chevrolet Corsica <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: broaden its <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: of telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: the health-club <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: running gab <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: athletic shoe <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: residents, whose <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: and Transformers <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: new telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: Montana fragrance <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: and truck <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: says clogged <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: private telephone <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: and Cougar <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: from older <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: midrange product <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: American tire <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Oh Lanterns <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: provide: "gab" <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: most product <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: more telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: 900 telephone <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: basic chemicals <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: personal computer <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: 500,000 access <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: and a <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the telephone <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: mostly "older <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: keep the <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: apparel company's <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: a specialized <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: business with <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: consumer products <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: see the <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: for some <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: a similar <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: renting communications <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: over the <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: new telephone <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: soft drink <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: eye-care products <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: telephone access <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: BRIEFS: A <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: the party <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: entry-level Fox <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: with the <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: for direct <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: its PS/2 <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Inc.'s Macintosh <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: 16,000 new <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: its full <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: between car <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: New telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: its skin-care <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: markets a <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <s> The <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: existing product <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Corp.'s PS/2 <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Edmonton, the <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: dozen telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: in subscriber <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: produces a <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: upscale car <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: reasonably priced <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: up the <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: 911 emergency <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: or dedicated <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: off the <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: of jewelry <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: Digital's VAX <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: $5 billion <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: new X-rated <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: its current <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: its new <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: through telephone <head>lines</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: of Sun's <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: its 1988-model <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: consumer information <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: expand their <head>line</head> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> and spread 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> let's call 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> to survive 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> if he 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> for you 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> could draw 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> because children 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of midpriced 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> into the 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> for its 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> in Britain 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> from the 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> , built 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> , to 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> grew 3.5% 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> was scrapped. 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> and gab 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> has been 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> and to 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> in service, 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> that might 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> was John 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> , Bally 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of men's 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> while Mr. 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> and a 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> ," Mr. 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> a new 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> , played 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> have a 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> to order 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of beds 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> that it 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> had sales 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> , moved 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> , is 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> , he 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> have been 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> , particularly 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> anymore," laments 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> -- voices 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> ! </s> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> , " 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> that can't 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> , no 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> to the 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> and perhaps 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> are likely 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> jumped 6.8% 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> in a 
+Log-likelihood score: 0
+Word sense: phone
+
+Feature: <head>line</head> ? " 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> , to 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> called Healthy 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> wouldn't still 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of Green 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> -- checking 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> included the 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> that link 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> , and 
+Log-likelihood score: 0.172545978291031
+Word sense: phone
+
+Feature: <head>line</head> growth since 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> they deem 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> recently got 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> , first 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> to Kraft 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> ." </s> 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> it had 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of mammography 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>Line</head> 2 machines 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> grew by 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> went dead 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> in the 
+Log-likelihood score: 0.294658813208041
+Word sense: product
+
+Feature: <head>line</head> ," she 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of precision 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of computers, 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> in China, 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> to record 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> so it 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> -- that 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of grotesque, 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> of aircraft 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> from Monteil, 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> , is 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> , Hormel 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of laptop 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> proprietors, Megaquest 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> and swore 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> of computers. 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> ranging from 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of stylish 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> could fetch 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> ," said 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> , will 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of software 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> as a 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> in service 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> just to 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> to their 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> at more 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> with the 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> at the 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> charges. </s> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> , like 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> adapters , 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of shoes 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of minicomputers 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> , making 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>Lines</head> will be 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> . </s> 
+Log-likelihood score: 0
+Word sense: product
+
+Feature: <head>line</head> is "substantially 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of computers 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> were added 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> , said 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> made by 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> are Wall 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> won't help 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> was busy 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> planned for 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> , the 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> , according 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of mid-sized 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> were hurt 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> pacing the 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> were jammed 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> open ! 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> yesterday, possibly 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> , which 
+Log-likelihood score: 0.465840244309973
+Word sense: product
+
+Feature: <head>lines</head> will continue 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> to the 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> of Millionaire's 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of women's 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> by offering 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> -- its 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> rose 130% 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> that has 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> in service. 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> is in 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of sweaters 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> from Crystal 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> were allegedly 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> noise " 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> , Cray's 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of Halloween 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> , "Elizabeth 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> ; Tonka 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of auto 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> was dead 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> last April, 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of cherubic 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> and I 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> appealing for 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> and public 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of PDP 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of plush 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of personal 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> by 2.5% 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> and one 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> increased 2.4% 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> , while 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of Chevrolet 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> they had 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> or that 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of frozen 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> is capable 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> to a 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> into the 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of nylon 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of jeans 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> at Chevrolet, 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> open for 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> during the 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> so I 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> , making 
+Log-likelihood score: 0
+Word sense: phone
+
+Feature: <head>line</head> because Noxell 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> , the 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> effect could 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of coronary 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> there, including 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of oversize 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> , but 
+Log-likelihood score: 0.294658813208041
+Word sense: phone
+
+Feature: <head>line</head> is aimed 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> to about 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> for the 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> , a 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> is just 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> this fall, 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> , with 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> through costly 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of frozen-cheese 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of more 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> . <p> 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of sunglasses. 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> products" sold 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> , a 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of mainframes 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> last month 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of trucks 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> , sir 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> and involving 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> are expected 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> and conduct 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> and Centrex 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> may not 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> under its 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> through Dec. 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> was still 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> to maybe 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> where fashionability 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> to tie 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> recently caused 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> growth by 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> used in 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> of computer 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> was secure 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> growth in 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> with its 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> to his 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of clothing 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of stock." 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of Japanese-made 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> charge by 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of mid-size 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> in 1985, 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> but declined 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> for three 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> . </s> 
+Log-likelihood score: 0.0274787703420148
+Word sense: product
+
+Feature: <head>line</head> once talked 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> is still 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> as the 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> , have 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> that dozens 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> and its 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> , mainly 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> , over 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> grew 2.5% 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> that supplement 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> in central 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> was that 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> last year 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> , dialed 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> to 15. 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> showed an 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> increase ever," 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> through a 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> from Imperial 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> , and 
+Log-likelihood score: 0.294658813208041
+Word sense: product
+
+Feature: <head>lines</head> and properties, 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> , they 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> to investment 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> like the 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> charges and 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> , says 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> at once 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> be tapped 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of Limited 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> called "Soap 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of older, 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> were out 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of deluxe 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> , fell 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> into a 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> and in 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of General 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> between them 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of high-end 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> of jockey 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> , such 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>line</head> light up. 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of plastic 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> to current 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> and leaves 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>lines</head> are well 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> were expected 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> increased 3.7% 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> of "Captain 
+Log-likelihood score: 2.00432137378264
+Word sense: product
+
+Feature: <head>lines</head> and 48 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
+Feature: <head>line</head> busy for 
+Log-likelihood score: 2.00432137378264
+Word sense: phone
+
